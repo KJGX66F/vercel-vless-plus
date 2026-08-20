@@ -1,0 +1,15 @@
+{
+  "name": "deploy-vercel-optimized",
+  "version": "1.1.0",
+  "private": true,
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
